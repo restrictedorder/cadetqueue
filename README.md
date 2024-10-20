@@ -1,2 +1,2 @@
-# cadetqueue
-Script for a cadet queue made in Python for Discord.
+This probs wont work hehe.
+No support offered.
